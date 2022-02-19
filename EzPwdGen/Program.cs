@@ -186,7 +186,7 @@ namespace EzPwdGen
                 StringBuilder sb = new StringBuilder();
                 for (int n = 0; n < PasswordLength; n++)
                 {
-                    Console.Title = $"Ez Password Generator | Generating {i} of {PasswordAmount} password ({n}/{PasswordLength}) | " +
+                    Console.Title = $"Ez Password Generator | Generating {i+1} of {PasswordAmount} password ({n+1}/{PasswordLength}) | " +
                         $"Settings: lowercase " +
                         $"{(bCapitals ? ", capitals" : ", no capitals")}" +
                         $"{(bDigits ? ", digits" : ", no digits")}" +
