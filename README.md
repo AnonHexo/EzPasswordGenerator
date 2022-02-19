@@ -1,5 +1,5 @@
 > # Ez Password Generator
-> #### Consider linking the original source if you edit and publish code.
+> #### Consider linking the original source if you edit and releasing or sharing the code.
 
 > #### You may want to update obsolete method [`RNGCryptoServiceProvider`](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryptoserviceprovider?view=net-6.0) to [`RandomNumberGenerator`](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.randomnumbergenerator?view=net-6.0) static method.
 ---
